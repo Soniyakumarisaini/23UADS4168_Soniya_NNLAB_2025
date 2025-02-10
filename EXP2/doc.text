@@ -1,0 +1,8 @@
+
+Objective:- WAP to implement a multi-layer perceptron (MLP) network with one hidden layer using numpy in Python. Demonstrate that it can learn the XOR Boolean function.    
+
+
+learning rate = 0.1
+number of epochs = 10000
+
+Predictions for XOR: [0 1 1 0]
